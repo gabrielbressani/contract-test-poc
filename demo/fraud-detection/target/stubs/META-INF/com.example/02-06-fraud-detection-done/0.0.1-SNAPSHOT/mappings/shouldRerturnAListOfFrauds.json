@@ -1,0 +1,13 @@
+{
+  "id" : "945bee1d-98e0-4cff-8e58-af9db8b0d316",
+  "request" : {
+    "url" : "/frauds",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[\"marcin\",\"josh\"]",
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "945bee1d-98e0-4cff-8e58-af9db8b0d316"
+}
